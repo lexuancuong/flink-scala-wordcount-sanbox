@@ -1,0 +1,28 @@
+state.backend.cleanup-on-cancel: true
+jobmanager.rpc.address: a9316c9a5e1b
+blob.server.port: 6124
+query.server.port: 6125
+
+jobmanager.rpc.address: a9316c9a5e1b
+
+
+jobmanager.rpc.address: a9316c9a5e1b
+
+
+# Fine-grained memory setting (recommended)
+jobmanager.memory.heap.size: 2048m  # Example: 1 GB for the heap memory
+
+jobmanager.rpc.address: a9316c9a5e1b
+
+
+jobmanager.rpc.address: a9316c9a5e1b
+
+
+jobmanager.rpc.address: a9316c9a5e1b
+
+
+jobmanager.rpc.address: a9316c9a5e1b
+
+
+jobmanager.rpc.address: jobmanager
+
